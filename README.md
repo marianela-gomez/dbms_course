@@ -35,11 +35,14 @@ Inside each folder is my solution to the course challenges.
 
 - Intermediate functions in MySQL and MariaDB.
 
+### 📂 lesson_3 
+
+- Intermediate functions in SQL Server.
 
 ## 🛠️ Tools & Environments
 
-- **SQL Dialects:** MySQL / MariaDB / 
-- **Editors:**  VS Code, MySQL Workbench
+- **SQL Dialects:** MySQL / MariaDB / SQL Server
+- **Editors:**  VS Code, MySQL Workbench, SQL Server Management Studio 
 
 *(This list will expand as I continue the course.)*
 
@@ -67,8 +70,8 @@ The purpose of this repository is to:
 |---------|---------------|---------|
 | 1 | Introduction to DBMS | ✅ Completed |
 | 2 | MySQL / MariaDB — Intermediate Functions | ✅ Completed |
-| 3 | SQL Server — Intermediate Functions | 🔄 In progress |
-| 4 | Oracle Database — Intermediate Functions | ⏳ Upcoming |
+| 3 | SQL Server — Intermediate Functions | ✅ Completed |
+| 4 | Oracle Database — Intermediate Functions | 🔄 In progress |
 
 ## 🤝 Contributions
 
